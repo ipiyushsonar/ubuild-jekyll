@@ -14,8 +14,8 @@ page_sections:
   - link: "#team"
     link_text: Team
   cta:
-    url: ''
-    button_text: ''
+    url: "/"
+    button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
