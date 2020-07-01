@@ -3,19 +3,16 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#team"
-    link_text: Team
-  cta:
-    url: "/"
-    button_text: Contact
+  - link: "#about"
+    link_text: About
+  - link: "/blog"
+    link_text: Blog
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
